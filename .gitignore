@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# Allure
+allure-results/
+allure-report/
+.allure/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
